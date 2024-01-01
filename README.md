@@ -1,2 +1,2 @@
 # 6Companies_30Days_Challenge
-A good set of Coding Questions which are asked in major tech companies and a challenge to test my consistency
+A Challenge to test my consistency with a good set of Coding Questions which are asked in major tech companies.
